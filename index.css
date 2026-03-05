@@ -1,0 +1,16 @@
+#title{
+    color: blue;
+    font-style: italic;
+}
+.head{
+    color: black;
+}
+#Click:hover{
+    background-color: yellow;
+}
+button{
+    background-color: aqua;
+}
+body{
+    background-color: rgb(201, 196, 189);
+}
